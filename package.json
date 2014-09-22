@@ -1,13 +1,13 @@
 {
-  "name": "less-demo",
-  "version": "1.0.0",
-  "description": "the least demo possible",
-  "repository": "https://github.com/andnorda/less-demo.git",
-  "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-less": "^0.11.4",
-    "grunt-contrib-watch": "^0.6.1",
-    "matchdep": "^0.3.0"
-  }
+	"name": "less-demo",
+	"version": "1.0.0",
+	"description": "the least demo possible",
+	"repository": "https://github.com/andnorda/less-demo.git",
+	"devDependencies": {
+		"grunt": "^0.4.5",
+		"grunt-cli": "^0.1.13",
+		"grunt-contrib-less": "^0.11.4",
+		"grunt-contrib-watch": "^0.6.1",
+		"matchdep": "^0.3.0"
+	}
 }
